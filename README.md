@@ -1,6 +1,6 @@
 
 
-https://github.com/user-attachments/assets/6fda2174-21a4-4ae0-8d38-485608101fe0
+
 
 # Wrong Way Vehicle Detection
 
@@ -33,3 +33,5 @@ pip install -r requirements.txt
 ```bash
 python wrongway.py
 ```
+
+https://github.com/user-attachments/assets/6fda2174-21a4-4ae0-8d38-485608101fe0
